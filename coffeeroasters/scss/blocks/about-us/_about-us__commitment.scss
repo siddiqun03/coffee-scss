@@ -1,0 +1,30 @@
+.about-us-commitment {
+    padding: 168px 100px;
+    display: flex;
+    align-items: center;
+  }
+  .commitment-right {
+    width: 540px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+  }
+  .commitment-header {
+    margin: 0;
+    padding: 0;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333d4b;
+  }
+  .commitment-desc {
+    width: 540px;
+    margin: 0;
+    padding: 0;
+    font-family: Barlow;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333d4b;
+  }

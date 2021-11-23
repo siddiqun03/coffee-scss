@@ -1,0 +1,43 @@
+.header-container {
+    display: flex;
+    align-items: center;
+  }
+  .logo-pic {
+    text-decoration: none;
+  }
+  .logo-pic:hover {
+    opacity: 0.5;
+  }
+  .logo-pic:active {
+    opacity: 1;
+  }
+  .nav-list,
+  .nav {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+    list-style: none;
+  }
+  .nav-link {
+    margin: 0;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.923077px;
+    text-transform: uppercase;
+    color: #83888f;
+  }
+  .link-item {
+    padding: 20px 10px;
+    opacity: 0.5;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .link-item:hover {
+    opacity: 1;
+  }
+  .link-item:active {
+    opacity: 0.5;
+  }

@@ -1,0 +1,45 @@
+.about-us-quality-container {
+    padding-top: 100px;
+  }
+  .about-us-quality {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: #2c343e;
+  }
+  .about-us-quality-left {
+    width: 540px;
+    padding: 88px 85px 176px 85px;
+    margin: 0;
+  }
+  .quality-header {
+    width: 540px;
+    margin: 0;
+    margin-bottom: 32px;
+    padding: 0;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #fefcf7;
+  }
+  .quality-desc {
+    width: 540px;
+    margin: 0;
+    padding: 0;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #fefcf7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+  }
+  .quality-img {
+    border-radius: 10px;
+    position: absolute;
+    right: 95px;
+    top: -120px;
+  }

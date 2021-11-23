@@ -1,0 +1,32 @@
+.footer-container {
+    padding: 20px 100px 10px 100px;
+    background: #2c343e;
+    display: flex;
+    align-items: center;
+  }
+  .footer-left {
+    display: flex;
+    align-items: center;
+    width: 681px;
+  }
+  .nav-footer-list {
+    padding: 0;
+    margin: 0 0 0 auto;
+  }
+  .footer-links {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+  }
+  .icon-footer {
+    mix-blend-mode: luminosity;
+  }
+  .footer-link + .footer-link {
+    margin-left: 20px;
+  }
+  .icon-footer:hover {
+    mix-blend-mode: normal;
+  }
+  .icon-footer:active {
+    mix-blend-mode: luminosity;
+  }

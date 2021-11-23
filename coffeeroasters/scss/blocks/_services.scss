@@ -1,0 +1,56 @@
+.container-collaction {
+    width: 1275px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-image: url("../images/services_bg-img.png");
+    background-repeat: no-repeat;
+    background-size: 1111px 196px;
+    background-position-x: 50%;
+  }
+  .collaction_box {
+    width: 255px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .gran::before {
+    content: url(../images/kopi1.png);
+    margin-bottom: 40px;
+  }
+  .planalto::before {
+    content: url(../images/kopi2.png);
+    margin-bottom: 40px;
+  }
+  .piccollo::before {
+    content: url(../images/kopi3.png);
+    margin-bottom: 40px;
+  }
+  .danche::before {
+    content: url(../images/kopi4.png);
+    margin-bottom: 40px;
+  }
+  .collaction-heading {
+    width: 255px;
+    margin: 0;
+    margin-bottom: 24px;
+    padding: 0;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #333d4b;
+  }
+  .collaction-desc {
+    margin: 0;
+    padding: 0;
+    font-family: Barlow;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #333d4b;
+  }

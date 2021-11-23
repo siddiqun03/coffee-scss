@@ -1,0 +1,64 @@
+.meke-coffee-container {
+    width: 1085px;
+    padding-top: 240px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .make-coffee-header {
+    font-family: Fraunces;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: left;
+    color: #83888f;
+  }
+  .make-coffee-box {
+    text-align: left;
+  }
+  .make-coffee-list {
+    width: 1085px;
+    padding: 40px 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 30px;
+  }
+  .make-coffee-item {
+    width: 285px;
+    margin: 0 100px 30px -30px;
+    padding: 0;
+  }
+  .makee-coffee-num {
+    margin: 0 0 38px 0;
+    padding: 0;
+    font-family: Fraunces;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #fdd6ba;
+  }
+  .make-coffee-header {
+    width: 255px;
+    margin: 0 0 42px 0;
+    padding: 0;
+    font-family: Fraunces;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333d4b;
+  }
+  .make-coffee-desc {
+    width: 285px;
+    margin: 0;
+    padding: 0;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333d4b;
+  }
